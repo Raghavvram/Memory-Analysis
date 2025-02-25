@@ -10,3 +10,5 @@ TODO: write a doc explaining the difference between the commands of vol3 and vlo
 TODO: wirte different ways to install it on different OS
 
 TODO: Explain the Output of each Command with an example
+
+TDOD: Write an Article
