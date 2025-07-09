@@ -1,14 +1,14 @@
 # Memory-Analysis
-Memory analysis using volatility
 
-TODO: Add a sample dump file
+This repository serves as a resource for memory forensics, primarily focusing on the use of Volatility 3 for analyzing memory dumps.
 
-TODO: Add links to related CTFs
+## Volatility 3 Command Reference
 
-TODO: write a doc explaining the difference between the commands of vol3 and vlo2
+For a comprehensive guide on essential Volatility 3 commands, their explanations, and usage instructions, please refer to [Command.md](Command.md). This document covers installation, basic usage, and categorized commands for process, network, code, registry, and file system analysis.
 
-TODO: wirte different ways to install it on different OS
+## Future Enhancements (TODOs)
 
-TODO: Explain the Output of each Command with an example
-
-TDOD: Write an Article
+*   Add a sample memory dump file for practice.
+*   Add links to related Capture The Flag (CTF) challenges.
+*   Explain the output of each command with practical examples.
+*   Write an article detailing memory analysis techniques.
